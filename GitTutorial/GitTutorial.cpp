@@ -1,20 +1,17 @@
 ﻿// GitTutorial.cpp : 此檔案包含 'main' 函式。程式會於該處開始執行及結束執行。
 //
 
-#include "stdafx.h"
 #include <string>
 #include <iostream>
-
-using namespace System;
+#include <cstdlib>
+#include <ctime>
 
 bool Guess(int number) {
-
+    return false;
 }
 
-int main(array<System::String ^> ^args)
+int main() {
 
-{
-    std::cout << "Hello World!\n";
 }
 
 // 執行程式: Ctrl + F5 或 [偵錯] > [啟動但不偵錯] 功能表
